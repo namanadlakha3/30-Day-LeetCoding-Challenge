@@ -16,7 +16,6 @@ public:
             }}
             else
                 break;
-            
         }
         return ans;
     }
