@@ -15,6 +15,7 @@ public:
             ans++;
            // mp[arr[i]+1]--;
         }
+             
         }
         return ans;
         
