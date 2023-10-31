@@ -1,4 +1,4 @@
-class Solution {
+class Solution  {
 public:
     bool buddyStrings(string a, string b) {
       int c=0;
