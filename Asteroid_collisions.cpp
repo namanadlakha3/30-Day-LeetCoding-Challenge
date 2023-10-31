@@ -5,7 +5,7 @@ public:
         return n<0;
     }
     vector<int> asteroidCollision(vector<int>& arr) {
-vector <int> ret;
+vector <int> ret; 
       int n = arr.size();
       for(int i = 0; i< n; ){
          if(ret.empty() || !(!isNeg(ret[ret.size() - 1]) && isNeg(arr[i]))){
