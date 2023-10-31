@@ -1,4 +1,4 @@
-class Solution {
+class Solution { 
 public:
     void rotate(vector<int>& arr, int d) {
         int n=arr.size();
